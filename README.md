@@ -5,6 +5,7 @@ It aims to replicate the look and feel of the Netflix website, including feature
 browsing movies and TV shows, viewing details, and a responsive design.
 
 /* Features */
+
 Homepage: Browse popular movies and TV shows.
 Login Page: View Login page for user credentials.
 Responsive Design: Ensure the webpage is accessible and user-friendly on different devices.
