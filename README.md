@@ -21,7 +21,7 @@ git clone https://github.com/yourusername/netflix-clone.git
 
 Open the project in your code editor.
 
-/* Usage 8/
+/* Usage */
 Open the index.html file in a web browser.
 Explore the Netflix clone webpage and interact with its features.
 
