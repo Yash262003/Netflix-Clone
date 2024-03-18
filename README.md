@@ -14,7 +14,10 @@ Live Link- https://yash-netflix-clone-web.netlify.app/
 Hosted on Netlify 
 
 Installation
-Clone the repository: git clone https://github.com/yourusername/netflix-clone.git
+
+Clone the repository: 
+git clone https://github.com/yourusername/netflix-clone.git
+
 Open the project in your code editor.
 
 Usage
