@@ -23,10 +23,12 @@ git clone https://github.com/yourusername/netflix-clone.git
 Open the project in your code editor.
 
 /* Usage */
+
 Open the index.html file in a web browser.
 Explore the Netflix clone webpage and interact with its features.
 
 /* Author */
+
 LinkedIn- https://www.linkedin.com/in/navoday-yash-kaushal-06a968291/
 
 
