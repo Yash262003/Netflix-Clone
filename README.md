@@ -12,7 +12,7 @@ Responsive Design: Ensure the webpage is accessible and user-friendly on differe
 
 Tech Stack- HTML, CSS and Javascript
 
-Live Link- https://yash-netflix-clone-web.netlify.app/
+Live Link- https://yash-project-61a0a1.netlify.app/
 
 Hosted on Netlify 
 
